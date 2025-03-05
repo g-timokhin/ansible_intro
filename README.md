@@ -22,6 +22,26 @@
 
 ![image](https://github.com/user-attachments/assets/088dff61-048d-480a-99b6-d1c28090895c)
 
+**3** 
+
+Создано окружение: запущено два докер-контейнера -- centos7 и ubuntu --  в каждый установлен интерпретатор python
+Соответственно отредактирован файл prod.yml
+(Для контейнера centos7 выбран образ almalinux, т.к centos7 не поддерживается в достаточной мере -- интерпретатор python нормально в него не устанавливается через yum)
+
+![image](https://github.com/user-attachments/assets/4e4e127c-c3b1-4399-bca7-2f7355790037)
+
+![image](https://github.com/user-attachments/assets/39b20504-fb27-4352-b094-7b4af917ccea)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
