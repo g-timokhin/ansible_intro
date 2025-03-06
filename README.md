@@ -44,6 +44,13 @@
 
 Для хоста centos7 факт somefact имеет значение el
 
+**5, 6**
+
+![image](https://github.com/user-attachments/assets/2d9f019c-b1bc-4db3-9deb-14dad771639e)
+
+
+
+
 
 
 
