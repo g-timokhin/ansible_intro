@@ -72,6 +72,15 @@
 
 ![image](https://github.com/user-attachments/assets/dac5545d-c862-4934-bde5-3fc6b2e81b92)
 
+**10**
+
+Добавлена новая группа хостов
+
+![image](https://github.com/user-attachments/assets/822d5b48-1f37-424b-ad4c-12f306c05d11)
+
+
+
+
 
 
 
