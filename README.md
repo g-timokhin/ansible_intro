@@ -76,7 +76,23 @@
 
 Добавлена новая группа хостов
 
-![image](https://github.com/user-attachments/assets/822d5b48-1f37-424b-ad4c-12f306c05d11)
+![image](https://github.com/user-attachments/assets/f06b4ec2-a9f4-4043-a440-9e8640b21a4a)
+
+**11**
+
+Успешно запущен playbook
+
+![image](https://github.com/user-attachments/assets/223d5fcc-78ed-40ec-8469-d22494744a23)
+
+![image](https://github.com/user-attachments/assets/e69caf9f-0335-4274-b840-965ed382d339)
+
+![image](https://github.com/user-attachments/assets/7cedca8e-cfba-494c-9a83-3e7d4278cd52)
+
+
+
+
+
+
 
 
 
