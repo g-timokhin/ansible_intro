@@ -88,6 +88,14 @@
 
 ![image](https://github.com/user-attachments/assets/7cedca8e-cfba-494c-9a83-3e7d4278cd52)
 
+**12**
+
+Изменения в playbook успешно залиты в удаленный репозиторий
+
+![image](https://github.com/user-attachments/assets/02d54aa1-1df0-47b5-b4e6-330e6abe94dc)
+
+
+
 
 
 
