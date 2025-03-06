@@ -48,6 +48,19 @@
 
 ![image](https://github.com/user-attachments/assets/2d9f019c-b1bc-4db3-9deb-14dad771639e)
 
+**7**
+
+Зашифровка прошла успешно
+
+![image](https://github.com/user-attachments/assets/9d2b53f6-071c-4257-8f40-8d2c22c8beb2)
+
+![image](https://github.com/user-attachments/assets/f9c4403a-a813-465a-8cb4-f04e9d46df3e)
+
+
+
+
+
+
 
 
 
