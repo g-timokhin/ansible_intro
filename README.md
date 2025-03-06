@@ -41,7 +41,9 @@
 ![image](https://github.com/user-attachments/assets/e0b527e8-cb8d-49f7-abf2-638d5d6c25ac)
 
 Для хоста ubuntu факт somefact имеет значение deb
+
 Для хоста centos7 факт somefact имеет значение el
+
 
 
 
