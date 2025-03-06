@@ -26,11 +26,29 @@
 
 Создано окружение: запущено два докер-контейнера -- centos7 и ubuntu --  в каждый установлен интерпретатор python
 Соответственно отредактирован файл prod.yml
-(Для контейнера centos7 выбран образ almalinux, т.к centos7 не поддерживается в достаточной мере -- интерпретатор python нормально в него не устанавливается через yum)
+(Для контейнера centos7 выбран образ almalinux, т.к centos7 не поддерживается в достаточной мере -- интерпретатор python нормально в него не устанавливается)
 
 ![image](https://github.com/user-attachments/assets/4e4e127c-c3b1-4399-bca7-2f7355790037)
 
 ![image](https://github.com/user-attachments/assets/39b20504-fb27-4352-b094-7b4af917ccea)
+
+**4**
+
+Успешно проведен запуск playbook на окружении prod.yml
+
+![image](https://github.com/user-attachments/assets/b23eb63a-29b6-441e-b356-4ed6a05e7027)
+
+![image](https://github.com/user-attachments/assets/e0b527e8-cb8d-49f7-abf2-638d5d6c25ac)
+
+Для хоста ubuntu факт somefact имеет значение deb
+Для хоста centos7 факт somefact имеет значение el
+
+
+
+
+
+
+
 
 
 
