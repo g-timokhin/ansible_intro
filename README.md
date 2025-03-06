@@ -56,6 +56,19 @@
 
 ![image](https://github.com/user-attachments/assets/f9c4403a-a813-465a-8cb4-f04e9d46df3e)
 
+**8**
+
+Успешно запущен playbook на окружении prod.yml
+Пароль был запрошен
+
+![image](https://github.com/user-attachments/assets/c1b24ac5-1a4e-425c-9ad3-e45ef0be42e8)
+
+![image](https://github.com/user-attachments/assets/5b8fc465-c62d-43f5-a967-ce69de2d928d)
+
+
+
+
+
 
 
 
