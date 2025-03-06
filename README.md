@@ -66,6 +66,15 @@
 ![image](https://github.com/user-attachments/assets/5b8fc465-c62d-43f5-a967-ce69de2d928d)
 
 
+**9**
+
+Список плагинов для подключения
+
+![image](https://github.com/user-attachments/assets/dac5545d-c862-4934-bde5-3fc6b2e81b92)
+
+
+
+
 
 
 
